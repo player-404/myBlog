@@ -168,7 +168,7 @@ layout: about
                         <img src="img/project.png" alt="pic"/>
                     </div>
                     <div class="project-name">
-                        <a href="https://player-404.github.io/geoJson-china/">登录Demo</a>
+                        <a href="https://player-404.github.io/login/">登录Demo</a>
                     </div>
                     <div class="project-desc">
                         一个登录界面demo，使用 animate.css 实现动画效果。
