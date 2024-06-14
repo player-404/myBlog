@@ -23,4 +23,4 @@ index_img: https://img.zphl.top/blog/articleImg/vercel.webp
 使用 `vercel-cname.xingpingcn.top` 解析地址，比官方提供的DNS解析地址更稳定。但访问速度会慢一些。
 
 ##### 参考：
-[^2]:https://github.com/xingpingcn/enhanced-FaaS-in-China
+[^1]:https://github.com/xingpingcn/enhanced-FaaS-in-China
