@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45e9c35-b9d9-46e4-80bd-479a03733a84" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/vercel部署DNS污染.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/vercel部署DNS污染.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/vercel部署DNS污染.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1718282794052" duration="11436000" />
       <workItem from="1718329985464" duration="22000" />
       <workItem from="1718336565649" duration="144000" />
-      <workItem from="1718336730401" duration="1624000" />
+      <workItem from="1718336730401" duration="4303000" />
     </task>
     <servers />
   </component>
