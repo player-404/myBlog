@@ -441,7 +441,7 @@ footer:
   beian:
     enable: true
     # ICP证号
-    icp_text: 赣ICP备2021004103号
+    icp_text: 赣ICP备2021004103号-2
     # 公安备案号，不填则只显示ICP
     police_text:
     # 公安备案的编号，用于URL跳转查询
