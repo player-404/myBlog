@@ -105,3 +105,9 @@ deploy:
   repo: git@github.com:player-404/myBlog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+# seo
+baidusitemap:
+  path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml
