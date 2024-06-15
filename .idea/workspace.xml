@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45e9c35-b9d9-46e4-80bd-479a03733a84" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/baidu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.fluid.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.fluid.yml" afterDir="false" />
     </list>
@@ -12,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +59,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\blog\themes\hexo-theme-matery" />
+      <recent name="D:\blog\source" />
+      <recent name="D:\blog" />
       <recent name="D:\blog\themes\hexo-theme-matery\source\libs\prism" />
     </key>
   </component>
@@ -87,7 +98,8 @@
       <workItem from="1718409670940" duration="605000" />
       <workItem from="1718413756656" duration="5000" />
       <workItem from="1718413777015" duration="643000" />
-      <workItem from="1718423497063" duration="41000" />
+      <workItem from="1718423497063" duration="129000" />
+      <workItem from="1718424164642" duration="3401000" />
     </task>
     <servers />
   </component>
