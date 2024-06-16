@@ -60,7 +60,7 @@ export const lazy = {
     this.markElement.forEach(el => {
       const src = el.getAttribute("data-src");
       if (!src) return;
-      const viewHeight = window.innerHeight;
+      const viewHeight = document.documentElement.clientHeight;
       const top = el.getBoundingClientRect().top;
       const bottom = el.getBoundingClientRect().bottom;
       if (top < viewHeight && bottom > 0) {
@@ -161,7 +161,7 @@ export const lazy = {
         this.markElement.forEach((el) => {
             const src = el.getAttribute("data-src");
             if (!src) return;
-            const viewHeight = window.innerHeight;
+            const viewHeight = document.documentElement.clientHeight;
             const top = el.getBoundingClientRect().top;
             const bottom = el.getBoundingClientRect().bottom;
             if (top < viewHeight && bottom > 0) {
