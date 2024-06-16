@@ -239,6 +239,6 @@ export const lazy = {
 
 ### 参考:
 
-[1^]: https://www.zphl.top/2024/06/16/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/
-[2^]: https://cn.vuejs.org/guide/reusability/custom-directives.html
-[3^]: https://cn.vuejs.org/guide/reusability/plugins.html
+[^1]: https://www.zphl.top/2024/06/16/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/
+[^2]: https://cn.vuejs.org/guide/reusability/custom-directives.html
+[^3]: https://cn.vuejs.org/guide/reusability/plugins.html
