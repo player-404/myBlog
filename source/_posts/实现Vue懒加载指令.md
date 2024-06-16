@@ -1,10 +1,15 @@
 ---
 title: 实现Vue懒加载指令v-lazy
 date: 2024-06-16 20:55:39
-tags: [前端, Vue, 手写, 工具代码]
-categories: [前端, Vue]
+tags:
+    - 前端
+    - Vue
+    - 手写
+    - 工具代码
+categories:
+    - [前端, Vue]
 excerpt: 手把手实现Vue懒加载指令v-lazy😍
-index_img: https://img.zphl.top/blog/articleImg/1.jpg
+index_img: https://img.zphl.top/blog/articleImg/loading1.gif
 banner_img: https://img.zphl.top/blog/bg/bg.jpg
 ---
 
