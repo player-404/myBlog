@@ -4,8 +4,8 @@ date: 2024-06-16 20:55:39
 tags: [前端, Vue, 手写, 工具代码]
 categories: [前端, Vue]
 excerpt: 懒加载是一种网页优化技术，在页面滚动时，只加载可视区域内的图片
-index_img: https://img.zphl.top/blog/articleImg/lazyload.gif
-banner_img: https://img.zphl.top/blog/articleImg/1.jpg
+index_img: https://img.zphl.top/blog/articleImg/1.jpg
+banner_img: https://img.zphl.top/blog/bg/bg.jpg
 ---
 
 前面我们手写了图片的懒加载（可以查看之前文章），这次我结合 Vue 的插件 API 来更好的实现懒加载的指令。
