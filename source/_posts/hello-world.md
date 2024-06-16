@@ -1,6 +1,7 @@
 ---
 title: Hello World
-tags: [Hexo, Fluid]
+tags: [Hexo]
+date: 2024-06-14 11:48:39
 index_img: https://img.zphl.top/blog/img/bg10.jpg
 ---
 Welcome! This is my very first post.
