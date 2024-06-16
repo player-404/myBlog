@@ -95,7 +95,7 @@ export const lazy = {
       });
     }, {
       root: null,
-      threshold: 1
+      threshold: .3
     });
     return observer;
   }
