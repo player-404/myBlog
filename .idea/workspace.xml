@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45e9c35-b9d9-46e4-80bd-479a03733a84" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/实现Vue懒加载指令.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/图片懒加载.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/图片懒加载.md" afterDir="false" />
     </list>
@@ -106,7 +107,8 @@
       <workItem from="1718499282515" duration="39000" />
       <workItem from="1718510753830" duration="5000" />
       <workItem from="1718512390260" duration="569000" />
-      <workItem from="1718540780763" duration="730000" />
+      <workItem from="1718540780763" duration="1673000" />
+      <workItem from="1718543054210" duration="308000" />
     </task>
     <servers />
   </component>
