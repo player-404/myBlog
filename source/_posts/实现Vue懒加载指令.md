@@ -151,7 +151,7 @@ install(app) {
 }
 ```
 
-下面时完整代码：
+下面是完整代码：
 
 ```js
 export const lazy = {
@@ -196,7 +196,7 @@ export const lazy = {
             },
             {
                 root: null,
-                threshold: 1,
+                threshold: 0.3,
             }
         );
         return observer;
