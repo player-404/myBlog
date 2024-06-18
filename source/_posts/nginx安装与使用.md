@@ -9,7 +9,7 @@ categories:
     - [后端]
 index_img: https://img.zphl.top/blog/articleImg/nginx.jpg
 excerpt: nginx的安装与相关配置
-permalink: /posts/nginx.html
+link: /posts/nginx.html
 ---
 
 ### 1. nginx 安装
@@ -348,6 +348,22 @@ http {
     }
 }
 ```
+
+### 3.nginx 疑难杂症
+
+**配置文件目录**
+
+nginx 配置文件目录为 `/etc/nginx`
+
+**执行 nginx 命令显示 pid 文件不存在**
+
+手动指定 nginx 配置文件目录即可解决: `nginx -c /etc/nginx/nginx.conf`
+
+**nginx root 自定义目录访问显示 403**
+
+自定义 nginx 资源目录会显式 403，需要赋予 nginx root 权限
+
+或者将静态文件放置 `/usr/share/nginx` 目录下
 
 ### 参考
 
