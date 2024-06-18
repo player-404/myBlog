@@ -9,6 +9,7 @@ categories:
     - [后端]
 index_img: https://img.zphl.top/blog/articleImg/nginx.jpg
 excerpt: nginx的安装与相关配置
+permalink: /posts/nginx.html
 ---
 
 ### 1. nginx 安装

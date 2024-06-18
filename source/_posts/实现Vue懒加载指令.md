@@ -11,6 +11,7 @@ categories:
 excerpt: 手把手实现Vue懒加载指令v-lazy😍
 index_img: https://img.zphl.top/blog/articleImg/loading1.gif
 banner_img: https://img.zphl.top/blog/bg/bg.jpg
+permalink: /posts/vue-v-lazy.html
 ---
 
 前面我们手写了图片的懒加载（可以查看之前文章），这次我结合 Vue 的插件 API 来更好的实现懒加载的指令。
