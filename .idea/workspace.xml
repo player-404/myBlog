@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45e9c35-b9d9-46e4-80bd-479a03733a84" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/实现Vue懒加载指令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/nginx.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/图片懒加载.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/图片懒加载.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,8 @@
       <workItem from="1718512390260" duration="569000" />
       <workItem from="1718540780763" duration="1673000" />
       <workItem from="1718543054210" duration="308000" />
+      <workItem from="1718623294624" duration="16000" />
+      <workItem from="1718697222331" duration="72000" />
     </task>
     <servers />
   </component>
