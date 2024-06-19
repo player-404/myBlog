@@ -365,6 +365,21 @@ nginx 配置文件目录为 `/etc/nginx`
 
 或者将静态文件放置 `/usr/share/nginx` 目录下
 
+**nginx 单页面项目部署刷新显示 404**
+
+因为 nginx 是根据 url 匹配目录，而单页面只有 index 文件，所以会导致找不到目录从而显示 404
+
+使用 `try_files $uri /index.html;` 配置，当找不到目录时，重定向到 index.html 文件
+
+```shell
+ location / {
+        root /usr/share/nginx/blog;
+        index  index.html index.htm;
+        # 解决刷新后 404的问题，以url访问时例如访问 /login，因为是单页面，nginx下没有相应目录，使用该配置项，当找不到目录时重定向到 index.html
+        try_files $uri $uri/ /index.html;
+    }
+```
+
 ### 参考
 
 [^1]: https://juejin.cn/post/6844903701459501070#heading-8
