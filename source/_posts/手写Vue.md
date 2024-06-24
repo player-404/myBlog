@@ -394,3 +394,9 @@ export default newArrayMethods;
 ```
 
 至此，data 中的所有属性改变时我们就都可以监听到了
+
+**注意： data 本身也是一个对象**
+
+概览图：
+
+![数据劫持](https://img.zphl.top/blog/articleImg/99.png)
