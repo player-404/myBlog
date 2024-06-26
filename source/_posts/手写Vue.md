@@ -1,12 +1,12 @@
 ---
-title: 手写Vue2
+title: 手写Vue2之数据劫持
 date: 2024-06-23 21:27:10
 tags:
     - 前端
-    - vue
+    - Vue
     - 手写
 categories:
-    - 前端
+    - [前端, Vue]
 index_img: https://img.zphl.top/blog/articleImg/VUE.JS.jpeg
 excerpt: 一把键盘，一个夜晚，一个奇迹
 link: /posts/vue2.html
