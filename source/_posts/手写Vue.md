@@ -24,14 +24,14 @@ Vue 是一个 MVVM 框架，它包含三个部分：Model、View、ViewModel：
 
 Vue 的响应式遵循发布订阅模式
 
-### 2.实现响应式原理
+### 2.实现响应式原理 5343
 
 #### 2.1 初始化数据
 
 Vue 接受一个对象 options，当我们去 `new Vue` 时，Vue 会调用 init 方法初始化初始数据
 
 ```js
-const vm = new Vue({
+const vm = new Vue({1
     data: {
         name: "张三",
         age: 12,
